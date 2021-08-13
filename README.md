@@ -1,4 +1,4 @@
-# bank
+# Vue & Vuetify wallet dashboard template
 
 ## Project setup
 ```
