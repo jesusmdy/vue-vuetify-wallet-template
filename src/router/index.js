@@ -1,14 +1,21 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Wallet from '@/views/Wallet/Layout.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: Home
+    name: 'Wallet',
+    component: Wallet,
+    children: [
+      {
+        path: '',
+        name: 'Balance',
+        component: () => import('@/views/Wallet/Index.vue')
+      }
+    ]
   },
   {
     path: '/about',

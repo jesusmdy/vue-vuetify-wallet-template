@@ -1,0 +1,24 @@
+{
+  "wallet_id": 27590816,
+  "fullName": "John Doe",
+  "email": "johndooee@site.com",
+  "phone": "(202)-555-0788",
+  "avatar": {
+    "tiny": "https://i.pravatar.cc/50?u=27590816",
+    "small": "https://i.pravatar.cc/150?u=27590816",
+    "medium": "https://i.pravatar.cc/250?u=27590816",
+    "large": "https://i.pravatar.cc/500?u=27590816",
+    "default": "https://i.pravatar.cc/100?u=27590816"
+  },
+  "basic_info": {
+    "genre": "male",
+    "born_date": "12/0/1985",
+    "join_date": "03/10/2016"
+  },
+  "address": {
+    "state": "District of Columbia",
+    "city": "Washington",
+    "postal_code": 20032,
+    "country": "US"
+  }
+}
