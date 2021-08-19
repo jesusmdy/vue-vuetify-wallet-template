@@ -5,6 +5,7 @@
       app
       v-model="drawer"
       floating
+      width="300"
     >
       <DrawerContent />
       <template v-slot:append>
@@ -22,15 +23,24 @@
     </v-navigation-drawer>
 
     <v-main>
-      <v-toolbar flat>
+      <v-toolbar flat color="transparent">
         <v-app-bar-nav-icon
           class="hidden-lg-and-up"
           @click="toggleDrawer"
         />
+        <v-text-field
+          hide-details
+          single-line
+          placeholder="Search activity, contacts & more..."
+          filled
+          prepend-inner-icon="mdi-magnify"
+          rounded
+          dense
+        />
         <v-spacer />
         <v-img
           src="@/assets/logo.svg"
-          height="40px"
+          height="50px"
           contain
           position="center center"
           class="hidden-lg-and-up"
@@ -51,6 +61,7 @@
       v-model="sidebar"
       class="aside"
       floating
+      width="300"
     >
       <v-toolbar flat color="transparent">
         <v-toolbar-title>Profile</v-toolbar-title>

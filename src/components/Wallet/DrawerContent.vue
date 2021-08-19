@@ -1,7 +1,7 @@
 <template>
   <v-sheet color="transparent">
     <v-toolbar color="transparent" flat>
-      <v-img src="@/assets/logo.svg" height="40px" contain position="center center" />
+      <v-img src="@/assets/logo.svg" height="50px" contain position="center center" />
     </v-toolbar>
     <v-list
       rounded

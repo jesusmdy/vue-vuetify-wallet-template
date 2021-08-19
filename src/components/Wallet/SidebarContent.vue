@@ -21,25 +21,6 @@
     </v-card>
 
     <v-toolbar color="transparent" flat>
-      <v-toolbar-title>Balance</v-toolbar-title>
-    </v-toolbar>
-    <v-sheet
-      :class="{
-        'rounded-xl mx-3': true,
-        'grey lighten-4': !$vuetify.theme.dark
-      }"
-    >
-      <v-list-item>
-        <v-list-item-icon>
-          <v-icon>mdi-wallet</v-icon>
-        </v-list-item-icon>
-        <v-list-item-content>
-          <v-list-item-title>{{ formatBalance(balance) }}</v-list-item-title>
-        </v-list-item-content>
-      </v-list-item>
-    </v-sheet>
-
-    <v-toolbar color="transparent" flat>
       <v-toolbar-title>Activity</v-toolbar-title>
     </v-toolbar>
     <v-sheet

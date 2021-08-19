@@ -1,14 +1,15 @@
 {
-  "wallet_id": 27590816,
+  "wallet_id": 4012888888881885,
+  "wallet_id_format": ["●●●●", "●●●●", "●●●●", 1885],
   "fullName": "John Doe",
   "email": "johndooee@site.com",
   "phone": "(202)-555-0788",
   "avatar": {
-    "tiny": "https://i.pravatar.cc/50?u=27590816",
-    "small": "https://i.pravatar.cc/150?u=27590816",
-    "medium": "https://i.pravatar.cc/250?u=27590816",
-    "large": "https://i.pravatar.cc/500?u=27590816",
-    "default": "https://i.pravatar.cc/100?u=27590816"
+    "tiny": "https://i.pravatar.cc/50?u=4012888888881885",
+    "small": "https://i.pravatar.cc/150?u=4012888888881885",
+    "medium": "https://i.pravatar.cc/250?u=4012888888881885",
+    "large": "https://i.pravatar.cc/500?u=4012888888881885",
+    "default": "https://i.pravatar.cc/100?u=4012888888881885"
   },
   "basic_info": {
     "genre": "male",

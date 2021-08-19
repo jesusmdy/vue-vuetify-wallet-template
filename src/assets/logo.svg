@@ -1,1 +1,19 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.5 100"><defs><style>.cls-1{fill:#1697f6;}.cls-2{fill:#7bc6ff;}.cls-3{fill:#1867c0;}.cls-4{fill:#aeddff;}</style></defs><title>Artboard 46</title><polyline class="cls-1" points="43.75 0 23.31 0 43.75 48.32"/><polygon class="cls-2" points="43.75 62.5 43.75 100 0 14.58 22.92 14.58 43.75 62.5"/><polyline class="cls-3" points="43.75 0 64.19 0 43.75 48.32"/><polygon class="cls-4" points="64.58 14.58 87.5 14.58 43.75 100 43.75 62.5 64.58 14.58"/></svg>
+<svg width="250" height="250" viewBox="0 0 250 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="250" height="250" rx="70" fill="#5D55FF"/>
+<path d="M81.6987 75C100.944 41.6667 149.056 41.6667 168.301 75L189.952 112.5C209.197 145.833 185.141 187.5 146.651 187.5H103.349C64.8593 187.5 40.8031 145.833 60.0481 112.5L81.6987 75Z" fill="black" fill-opacity="0.25"/>
+<g filter="url(#filter0_d)">
+<path d="M84.1114 193C82.2114 193 80.6914 192.493 79.5514 191.48C78.4114 190.467 77.7147 189.073 77.4614 187.3L54.8514 65.51L54.6614 63.99C54.6614 62.85 55.0414 61.9 55.8014 61.14C56.6881 60.38 57.6381 60 58.6514 60H75.3714C78.5381 60 80.3114 61.2667 80.6914 63.8L96.4614 149.87L113.561 94.2C114.828 91.0333 116.918 89.45 119.831 89.45H130.091C133.258 89.45 135.285 91.0333 136.171 94.2L153.461 149.68L169.231 63.8C169.485 62.4067 169.991 61.4567 170.751 60.95C171.638 60.3167 172.905 60 174.551 60H191.271C192.285 60 193.171 60.38 193.931 61.14C194.691 61.9 195.071 62.85 195.071 63.99C195.071 64.6233 195.008 65.13 194.881 65.51L172.271 187.3C171.638 191.1 169.421 193 165.621 193H152.891C151.118 193 149.661 192.557 148.521 191.67C147.381 190.783 146.621 189.643 146.241 188.25L124.961 124.79L103.681 188.25C102.415 191.417 100.135 193 96.8414 193H84.1114Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d" x="50.6614" y="60" width="148.41" height="141" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
