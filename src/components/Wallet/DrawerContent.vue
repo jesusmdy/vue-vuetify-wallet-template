@@ -59,6 +59,11 @@ export default {
               title: 'Activity',
               icon: 'mdi-history',
               to: '/activity'
+            },
+            {
+              title: 'Reports',
+              icon: 'mdi-chart-arc',
+              to: '/reports'
             }
           ]
         },

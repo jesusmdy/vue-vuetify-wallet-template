@@ -41,6 +41,7 @@
         <v-img
           src="@/assets/logo.svg"
           height="50px"
+          width="60px"
           contain
           position="center center"
           class="hidden-lg-and-up"
